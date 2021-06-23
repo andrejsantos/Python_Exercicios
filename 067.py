@@ -10,4 +10,3 @@ while True:
         print(f'{cont} x {num} = {num*cont}')
     print('=' * 50)
 print('Fim do programa. volte sempre!')
-#CONCLUIDO COM 80% SOZINHO
