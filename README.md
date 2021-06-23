@@ -1,3 +1,3 @@
 # python_exercicios
 são exercícios passado pelo "curso em vídeo"  feitos por mim
-todos foram testado e estão funcionando , a maioria est  com a descrição  dizendo o que o codigo  faz.
+todos foram testados e estao funcionando , a maioria esta com enunciado dizendo o que o codigo faz .
