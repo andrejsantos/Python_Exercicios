@@ -9,4 +9,3 @@ if inverso == junto:
     print('Temos um palíndromo')
 else:
     print('A frase não é um palíndromo')
-#não soube fazer nada
