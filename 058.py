@@ -16,4 +16,3 @@ while not acertou:
         elif jogador > sorteio:
             print('MENOS!')
 print('Você acertou com {} tentativas'. format(palpites))
-#finalizado com 75% de ajuda.
