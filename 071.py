@@ -25,4 +25,3 @@ while True:
         if total == 0:
             break
 print('SAQUE CONCLUIDO, VOLTE SEMPRE.')
-#NÃO CONSEGUI FAZER. MAS ENTENDI O CONCEITO.
