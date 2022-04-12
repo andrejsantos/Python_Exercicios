@@ -22,4 +22,3 @@ while True:
 print(f'O total da compra foi R${total:.2f}')
 print(f'Temos {caro} produtos custando mais de R$1000.00')
 print(f'O produto mais barato foi {nomeb} que custa R${barato}')
-#concluido com 20% de ajuda.
