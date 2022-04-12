@@ -14,4 +14,3 @@ if total == 2:
 else:
     print('ESSE NÃO É UM NUMERO PRIMO')
 
-# completo  com 70% de ajuda
