@@ -5,4 +5,4 @@ decimo = termo + (10 - 1) * razao
 for c in range(termo, decimo + razao, razao):
     print(end='{}-'.format(c))
 print(end='ACABOU')
-#completado 90% sozinho 10% com ajuda
+
