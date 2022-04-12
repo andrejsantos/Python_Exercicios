@@ -12,4 +12,3 @@ for c in range(1, 8):
         totmenor += 1
 print('total de pessoas maiores de idade foram:{}'.format(totmaior))
 print('total de pessoas menores de idade foram:{}'.format(totmenor))
-#terminado com 10% de ajuda do professor
