@@ -25,4 +25,3 @@ media = soma / 4
 print('A média de idade do grupo  é de de {} anos'.format(media))
 print('O homem mais velho tem {} anos e se chama {}'.format(maioridadehomem, nomevelho))
 print('Ao todo são tanta mulheres com menos de 20 anos'.format(totmulher20))
-#NÃO CONSEGUI RESOLVER NADA, 100% COM AJUDA
