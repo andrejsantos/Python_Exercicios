@@ -12,4 +12,3 @@ while cont <= n:
     t2 = t3
     cont += 1
 print(' - Fim!')
-#RESOLUÇÃO FEITA 100% POR MIM DEPOIS DE TER ENTENDIDO. SEM OLHAR O RESULTADO.
