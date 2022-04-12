@@ -37,4 +37,3 @@ while fechar != 5:
         print('Opção invalida. Tente novamente.')
         sleep(1)
 print('Fim do programa! volte sempre!')
-#feito 100% sozinho !!!!!!!!!!!
