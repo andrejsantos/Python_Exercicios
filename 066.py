@@ -8,4 +8,3 @@ while True:
         break
     soma += num
 print(f'A soma dos {cont} Valores foi {soma}!')
-#FEITO 100% SOZINHO
