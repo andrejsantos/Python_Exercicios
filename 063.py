@@ -12,4 +12,3 @@ while c <= n:
     t2 = t3
     c += 1
 print(' - Fim!')
-#CINCLUIDO 0% SOZINHO, MAS ENTENDIDO
