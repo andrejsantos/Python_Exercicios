@@ -13,4 +13,3 @@ for c in range(1, 6):
             menor = peso
 print('esse é o manior peso:{}Kg'.format(maior))
 print('esse é o menor peso:{}Kg'.format(menor))
-#completo com 20% de ajuda(só a parte do else para baixo)
