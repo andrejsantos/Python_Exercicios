@@ -28,4 +28,3 @@ while True:
             break
     print('Vamos de novo!...')
 print(f'FIM  DO JOGO... você venceu {v} vezes.')
-#FEITO 80% SOZINHO
