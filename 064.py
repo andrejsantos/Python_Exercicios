@@ -7,4 +7,3 @@ while num != 999:
     cont += 1
     num = int(input('Digite um numero [999 para parar]'))
 print('você digitou {} e a soma entre eles são {}'.format(cont, soma))
-#FINALIZADO 70% SOZINHO
