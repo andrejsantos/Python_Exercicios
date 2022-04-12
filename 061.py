@@ -8,4 +8,3 @@ while c <= 10:
     termo += r
     c +=1
 print('FIM!')
-#concluido feito 60% sozinho
