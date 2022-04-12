@@ -15,4 +15,3 @@ while mais != 0:
     print('PAUSA')
     mais = int(input('Qunatos termos você quer mostrar a mais ?'))
 print('FIM')
-#CONCULIDO 20% SOZINHO
